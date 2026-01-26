@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Desenvolvedor em início de carreira, cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul , em busca da primeira oportunidade de estágio na área de backend. Comprometido com o aprendizado contínuo e em agregar valor ao time e a organização. Atualmente estou no 2º semestre, demonstrei um grande interesse por competições de programação iniciando na turma de treinamento para o Interfatecs, onde aprimorei meus conhecimentos na linguagem Python e em resolução de problemas.
+Desenvolvedor em início de carreira, cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul , em busca da primeira oportunidade de estágio na área de backend. Comprometido com o aprendizado contínuo e em agregar valor ao time e a organização. Atualmente estou no 3º semestre, demonstrei um grande interesse por competições de programação iniciando na turma de treinamento para o Interfatecs, onde aprimorei meus conhecimentos na linguagem Python e em resolução de problemas.
 
 [Linkedin](https://www.linkedin.com/in/rafael-oliveira-189517297/)
 
